@@ -1,0 +1,12 @@
+{
+    "name": "LorIpser",
+    "version": "1.0",
+    "description": "Apenas um bloco de Loren Ipsum para colar",
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+    "manifest_version": 2
+
+
+
+}
